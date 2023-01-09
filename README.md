@@ -19,6 +19,7 @@ public class BonusService {
     return bonus;
   }
 }
+
 Шаг 4. Создайте тестовый класс со следующим исходным кодом:
 
 import static org.junit.jupiter.api.Assertions.*;
